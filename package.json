@@ -12,5 +12,8 @@
   "engines": {
     "node": "^22",
     "npm": "^10 || ^11"
+  },
+  "dependencies": {
+    "is-svg": "^1.0.0"
   }
 }
